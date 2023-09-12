@@ -5,3 +5,7 @@ main {
 footer{ 
   background-color: orange;
 }
+
+header{
+  border: solid 1px black;
+}
